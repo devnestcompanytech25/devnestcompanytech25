@@ -43,10 +43,10 @@ UI/UX Designer + HR
 ---
 
 ## 📞 Contact Us
-- 📧 Email: 
+- 📧 Email:devnest.company.tech25@gmail.com 
 - 🌐 Website: Coming Soon  
-- 📸 Instagram: @DevNest  
-- 💼 LinkedIn: DevNest Studio  
+- 📸 Instagram:https://www.instagram.com/devnest.company.tech25/ 
+- 💼 LinkedIn:https://www.linkedin.com/in/devnest-company-919322398/  
 
 ---
 
